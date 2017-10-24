@@ -4,3 +4,5 @@ commit to put it in the repository.
 2.git can track code by using git log to see the files commited and it can use git diff
 to see the difference between the most recently commited file and the staging file.
 git status also allow the user to see the files modified and files in the staging area.
+
+3. git push enable the user to share code with other users in the remote repository.
