@@ -1,0 +1,2 @@
+1. git enables saving code by adding a file using git add to the staging area and git
+commit to put it in the repository.
