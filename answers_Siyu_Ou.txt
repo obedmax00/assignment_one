@@ -1,2 +1,6 @@
 1. git enables saving code by adding a file using git add to the staging area and git
 commit to put it in the repository.
+
+2.git can track code by using git log to see the files commited and it can use git diff
+to see the difference between the most recently commited file and the staging file.
+git status also allow the user to see the files modified and files in the staging area.
